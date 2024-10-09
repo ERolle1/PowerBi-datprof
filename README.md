@@ -1,2 +1,2 @@
-# PowerBi-dataprof
+# PowerBi-dataprofsurvey
 Analysis of survey from Data Professionals
